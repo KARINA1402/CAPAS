@@ -1,0 +1,5 @@
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_E\bin\Debug\ClassLibrary_E.dll
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_E\bin\Debug\ClassLibrary_E.pdb
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_E\obj\Debug\ClassLibrary_E.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_E\obj\Debug\ClassLibrary_E.dll
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_E\obj\Debug\ClassLibrary_E.pdb

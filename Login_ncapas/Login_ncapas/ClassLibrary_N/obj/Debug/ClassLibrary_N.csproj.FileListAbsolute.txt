@@ -1,0 +1,11 @@
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\bin\Debug\ClassLibrary_N.dll
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\bin\Debug\ClassLibrary_N.pdb
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\bin\Debug\ClassLibrary_D.dll
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\bin\Debug\ClassLibrary_E.dll
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\bin\Debug\ClassLibrary_D.pdb
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\bin\Debug\ClassLibrary_E.pdb
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\obj\Debug\ClassLibrary_N.csprojAssemblyReference.cache
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\obj\Debug\ClassLibrary_N.csproj.CoreCompileInputs.cache
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\obj\Debug\ClassLibrary_N.csproj.CopyComplete
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\obj\Debug\ClassLibrary_N.dll
+C:\Users\4M4D3US\Desktop\Login_ncapas\ClassLibrary_N\obj\Debug\ClassLibrary_N.pdb
